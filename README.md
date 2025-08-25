@@ -1,3 +1,5 @@
 # 2nd-samester
 
-# move files in folder
+# 8-25-2025
+
+# zoom meeting anded mid seasion

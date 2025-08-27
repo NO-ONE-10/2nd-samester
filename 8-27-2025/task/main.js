@@ -1,23 +1,25 @@
 
 
-englishMarks = 10;
-urduMarks = 68;
+let englishMarks = 200;
+let urduMarks = 70;
 
-totalMarks = englishMarks + urduMarks ;
+let totalMarks = englishMarks + urduMarks ;
 
 console.log(totalMarks);
  
-
-if (totalMarks >= 180) {
-  document.write("your grade is A")
+if (totalMarks > 200){
+  document.write("marks are not valid")
+}
+else if (totalMarks >= 180) {
+  document.write("your grade is A+")
 } else if (totalMarks >= 160){
-  document.write("your grade is B")
+  document.write("your grade is A")
 } else if (totalMarks >= 140){
-  document.write("your grade is C")
+  document.write("your grade is B")
 } else if (totalMarks >= 120){
-  document.write("your grade is D")
+  document.write("your grade is C")
 } else if (totalMarks >= 100){
-  document.write("your grade is E")
+  document.write("your grade is D")
 } else {
   document.write("your grade is F")
 }

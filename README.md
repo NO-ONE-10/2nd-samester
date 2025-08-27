@@ -1,5 +1,5 @@
 # 2nd-samester
 
-# 8-25-2025
+# 8-27-2025
 
-# zoom meeting anded mid session
+# class finish

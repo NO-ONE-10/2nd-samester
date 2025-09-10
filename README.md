@@ -1,5 +1,5 @@
 # 2nd-samester
 
-# 9-8-2025
+# 9-10-2025
 
-# class finish
+# class does not happen because of rain

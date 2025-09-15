@@ -1,5 +1,5 @@
 # 2nd-samester
 
-# 9-10-2025
+# 9-15-2025
 
-# class does not happen because of rain
+# class is done sir give the task of calculator I did not compleated yet 
